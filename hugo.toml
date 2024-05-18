@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'technophile'
+theme = "hugo-PaperMod"
+
+[menu]
+  [[menu.main]]
+    identifier = "About Me"
+    name = "About Me"
+    url = "/about/"
+    weight = 10
