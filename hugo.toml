@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/ManavRupani/Blog.github.io'
+baseURL = 'https://manavrupanitechnophile.netlify.app/'
 languageCode = 'en-us'
 title = 'technophile'
 theme = "hugo-PaperMod"
@@ -9,3 +9,10 @@ theme = "hugo-PaperMod"
     name = "About Me"
     url = "/about/"
     weight = 10
+
+[deployment]
+  [[deployment.targets]]
+    # An arbitrary name for this target.
+    name = "production"
+    # URL specifies the Go Cloud Development Kit URL to deploy to.
+    URL = "<FILL ME IN>"
