@@ -1,4 +1,4 @@
-baseURL = 'https://manavrupanitechnophile.netlify.app/'
+baseURL = 'https://manavrupani.github.io/'
 languageCode = 'en-us'
 title = 'technophile'
 theme = "hugo-PaperMod"

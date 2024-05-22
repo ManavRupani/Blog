@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>technophile</title>
-    <link>https://manavrupanitechnophile.netlify.app/</link>
+    <link>https://manavrupani.github.io/</link>
     <description>Recent content on technophile</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2024 13:45:05 -0400</lastBuildDate>
-    <atom:link href="https://manavrupanitechnophile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 11:01:55 -0400</lastBuildDate>
+    <atom:link href="https://manavrupani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The All New Ram</title>
-      <link>https://manavrupanitechnophile.netlify.app/posts/first/</link>
+      <link>https://manavrupani.github.io/posts/first/</link>
       <pubDate>Sat, 18 May 2024 12:36:55 -0400</pubDate>
-      <guid>https://manavrupanitechnophile.netlify.app/posts/first/</guid>
+      <guid>https://manavrupani.github.io/posts/first/</guid>
       <description>The all new LPCAMM2 looks nothing like the previous upgradeable Rams, looks stunning The best thing is that is smaller and consumes less power which can be very helpful in the future design of laptops small RAM means more space for GPU and other modules and less power consumption means more power for other modules possibilities are endless
 My take on this new hardware In my opinion, the new RAM will solve a lot of problems regarding the space available on notebooks, and high-end laptops which focus on thinner designs It will be very easy to have vapour camber and 5090 on laptops without any headache open door for NPUs will also see what framework laptops have to offer on this</description>
     </item>
     <item>
+      <title>Aboutme</title>
+      <link>https://manavrupani.github.io/pages/aboutme/</link>
+      <pubDate>Mon, 20 May 2024 11:01:55 -0400</pubDate>
+      <guid>https://manavrupani.github.io/pages/aboutme/</guid>
+      <description>slug =&amp;quot;/aboutme/&#39;</description>
+    </item>
+    <item>
+      <title>Aboutme</title>
+      <link>https://manavrupani.github.io/aboutme/</link>
+      <pubDate>Mon, 20 May 2024 10:59:40 -0400</pubDate>
+      <guid>https://manavrupani.github.io/aboutme/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Upgrading the New Ram</title>
-      <link>https://manavrupanitechnophile.netlify.app/posts/second/</link>
+      <link>https://manavrupani.github.io/posts/second/</link>
       <pubDate>Sat, 18 May 2024 13:45:05 -0400</pubDate>
-      <guid>https://manavrupanitechnophile.netlify.app/posts/second/</guid>
+      <guid>https://manavrupani.github.io/posts/second/</guid>
       <description>Easlie replace LPCAMM2 ram Step 1
 First Remove All 3 screws
 step 2
